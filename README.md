@@ -2,11 +2,11 @@
 - 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 1/6
 - 🌱 Estudando HTML5 | CSS3 | Javascript
 - 🔭 Hoje busco uma oportunidade na área
+- 
 <div align="center">
   <a href="https://github.com/GabrielNobre21">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=GabrielNobre21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNobre21&layout=compact&langs_count=7&theme=dracula"/>
-    te
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNobre21&layout=compact"/>
 </div>
  
 <div style="display: inline_block"><br>
