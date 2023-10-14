@@ -1,5 +1,5 @@
 - 🎓 Formado no curso de eletrotécnica pelo Instituto Federal Sul-riograndesse
-- 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 1/6
+- 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 3/6
 - 🌱 Estudando HTML5 | CSS3 | Javascript
 - 🔭 Hoje busco uma oportunidade na área
 
